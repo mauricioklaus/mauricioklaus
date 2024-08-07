@@ -10,14 +10,13 @@
 (Python | AWS | Deep Learning | Data Science | SQL | Android | Java ) 🚀
 
 - 👩‍💻 Software Developer
-- 🏆 Proficiency in SQL  
 - 🌐 Passionate about technology
 - 💡 Love a good challenge
 - 🎓 Master's Degree in Computer Science - Artificial Intelligence @ [UNISINOS](https://www.unisinos.br/)
 
 <div align="left">
   
-[![Klaus top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioKlaus&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Klaus top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioKlaus&theme=blue-white)](https://github.com/MauricioKlaus/github-readme-stats)
   
  </div>
 
