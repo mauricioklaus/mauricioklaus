@@ -16,7 +16,7 @@
 
 <div align="left">
   
-[![Klaus top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioKlaus&theme=blue-white)](https://github.com/MauricioKlaus/github-readme-stats)
+[![Klaus top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioKlaus&theme=blue-white)](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioKlaus&theme=blue-white)
   
  </div>
 
