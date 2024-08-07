@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**mauricioklaus/mauricioklaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi There! 👋</h1>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricioklaus/)](https://www.linkedin.com/in/mauricioklaus/)
+[![Gmail Badge](https://img.shields.io/badge/-mauricio.klaus@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauricio.klaus@gmail.com)](mailto:mauricio.klaus@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Machine Learning image" src="./ml.jpg"  width="300px"/>
+
+## Mauricio Klaus
+(Python | AWS | Deep Learning | Data Science | SQL | Android | Java ) 🚀
+
+- 👩‍💻 Software Developer
+- 🏆 Proficiency in SQL  
+- 🌐 Passionate about technology
+- 💡 Love a good challenge
+- 🎓 Master's Degree in Computer Science - Artificial Intelligence @ [UNISINOS](https://www.unisinos.br/)
+
+<div align="left">
+  
+[![Klaus top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioKlaus&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
+
+
