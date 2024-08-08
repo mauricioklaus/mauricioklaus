@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricioklaus/)](https://www.linkedin.com/in/mauricioklaus/)
 [![Gmail Badge](https://img.shields.io/badge/-mauricio.klaus@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauricio.klaus@gmail.com)](mailto:mauricio.klaus@gmail.com)
 
-<img align="right" alt="Machine Learning image" src="./ml.jpg"  width="300px"/>
+<img align="right" alt="Machine Learning image" src="./artificial_intelligence.png"  width="300px"/>
 
 ## Mauricio Klaus
 (Python | AWS | Deep Learning | Data Science | SQL | Android | Java ) 🚀
